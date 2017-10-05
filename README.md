@@ -19,7 +19,7 @@ To deploy the project, you'll need:
 
 The project is part of [Bicycle](https://github.com/Knudian/bicycle/).
 
-This project use [Meteo France](www.meteofrance.com/) API.
+This project use [Prev-Air](http://www2.prevair.org/) API.
 
 ### Installing
 
@@ -27,7 +27,7 @@ This project use [Meteo France](www.meteofrance.com/) API.
 npm install
 ```
 
-It runs in your port 3100. Protect yourself !
+It runs in your port 3200. Protect yourself !
 
 ## Versioning
 
